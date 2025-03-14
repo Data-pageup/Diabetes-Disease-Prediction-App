@@ -6,7 +6,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
 
 # Title of the App
-st.title("Simple Linear Regression Web App")
+st.title("AG' Simple Linear Regression Web App")
 
 # Step 1: Upload Dataset
 uploaded_file = st.file_uploader("Upload your dataset (CSV)", type=["csv"])
