@@ -13,9 +13,4 @@ This is a **Machine Learning web app** built with **Streamlit** and **Support Ve
 
 ---
 
-##  How to Run Locally
 
-### 1. Clone this repository
-```bash
-git clone https://github.com/<your-username>/Diabetes-Disease-Prediction.git
-cd Diabetes-Disease-Prediction
